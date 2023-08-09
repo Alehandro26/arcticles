@@ -26,6 +26,7 @@ function changeAcrticle(id) {
 
 <style lang="less">
 .list {
+    width: 100%;
 
     &__item {
         &:not(:last-child) {
